@@ -12,6 +12,18 @@
 
 **Classic Camera** is a minimalist, fully-manual camera app built for creation. It skips the manufacturer's image processing entirely and drives the sensor's **RAW data** directly, returning the purest optical quality to you. Every parameter adjustment is applied to RAW data in real time — what you see is what you get.
 
+## 📱 App Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053222.jpg" width="19%" alt="Screenshot 1"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053243.jpg" width="19%" alt="Screenshot 2"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053247.jpg" width="19%" alt="Screenshot 3"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053359.jpg" width="19%" alt="Screenshot 4"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053407.jpg" width="19%" alt="Screenshot 5"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053417.jpg" width="19%" alt="Screenshot 6"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053635.jpg" width="19%" alt="Screenshot 7"/>
+</p>
+
 ## ✨ Key Features
 
 ### 1. Full RAW Pipeline · Pure Optical Quality
@@ -39,6 +51,32 @@ The app ships with a **LUT learning engine**:
 No ads, no notifications, no accounts, no community bloat. Just the core ability to shoot: **clean, focused, and fully offline.**
 
 > **Compatibility note:** Currently only tested on the **Samsung Galaxy S23 Ultra**; behavior on other devices may differ.
+
+## 🖼 Sample Gallery
+
+The following samples were all shot and output directly by this app (real-time RAW rendering), with no post-processing.
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260722_175518_6.3mm.jpg" width="100%" alt="Sample 1"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260725_191039_6.3mm.jpg" width="100%" alt="Sample 2"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_151337_6.3mm.jpg" width="100%" alt="Sample 3"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_154935_6.3mm.jpg" width="100%" alt="Sample 4"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_155744_7.9mm.jpg" width="100%" alt="Sample 5"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_160432_6.3mm.jpg" width="100%" alt="Sample 6"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_163909_6.3mm.jpg" width="100%" alt="Sample 7"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_170852_7.9mm.jpg" width="100%" alt="Sample 8"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_171301_6.3mm.jpg" width="100%" alt="Sample 9"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260731_220015_6.3mm.jpg" width="100%" alt="Sample 10"/></td>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 

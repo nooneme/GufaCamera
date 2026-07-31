@@ -12,6 +12,18 @@
 
 **Classic Camera** 是一款功能极简、面向创作的全手动相机应用。它不依赖厂商的图像处理算法，而是直接驱动相机传感器的 **RAW 数据**，把最纯净的光学质感交还给你。所有参数调节都实时作用在 RAW 数据上，你在预览框看到的就是最终成片。
 
+## 📱 界面预览
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053222.jpg" width="19%" alt="界面预览 1"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053243.jpg" width="19%" alt="界面预览 2"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053247.jpg" width="19%" alt="界面预览 3"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053359.jpg" width="19%" alt="界面预览 4"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053407.jpg" width="19%" alt="界面预览 5"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053417.jpg" width="19%" alt="界面预览 6"/>
+  <img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/screenshots/Screenshot_20260801_053635.jpg" width="19%" alt="界面预览 7"/>
+</p>
+
 ## ✨ 核心功能
 
 ### 1. 全 RAW 管线 · 纯净光学质感
@@ -39,6 +51,32 @@
 没有广告、没有推送、没有账号系统、没有花哨的社区功能。只保留拍摄最核心的能力：**干净、专注、可离线使用。**
 
 > **兼容性说明：** 目前仅在 **Samsung Galaxy S23 Ultra** 上测试过，其它设备上的表现可能有所差异。
+
+## 🖼 样片展示
+
+以下样片均由本应用直接拍摄并输出（RAW 实时渲染），未经过任何后期处理。
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260722_175518_6.3mm.jpg" width="100%" alt="样片 1"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260725_191039_6.3mm.jpg" width="100%" alt="样片 2"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_151337_6.3mm.jpg" width="100%" alt="样片 3"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_154935_6.3mm.jpg" width="100%" alt="样片 4"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_155744_7.9mm.jpg" width="100%" alt="样片 5"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_160432_6.3mm.jpg" width="100%" alt="样片 6"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_163909_6.3mm.jpg" width="100%" alt="样片 7"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_170852_7.9mm.jpg" width="100%" alt="样片 8"/></td>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260727_171301_6.3mm.jpg" width="100%" alt="样片 9"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/nooneme/GufaCamera/main/images/samples/IMG_20260731_220015_6.3mm.jpg" width="100%" alt="样片 10"/></td>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+</table>
 
 ## 🛠 技术栈
 
