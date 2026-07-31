@@ -54,7 +54,7 @@ No ads, no notifications, no accounts, no community bloat. Just the core ability
 
 ## 🖼 Sample Gallery
 
-The following samples were all shot and output directly by this app (real-time RAW rendering), with no post-processing.
+All shots are quick casual captures, straight out of the camera — my photography skills are limited, these are for demonstration only.
 
 <table>
   <tr>
